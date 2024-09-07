@@ -1,4 +1,4 @@
-#Desafio de Estágio - São Paulo
+##Desafio de Estágio - São Paulo
 Este repositório contém a resolução de cinco questões técnicas como parte do processo seletivo para uma vaga de estágio. Abaixo, você encontrará uma descrição detalhada das perguntas e das soluções desenvolvidas.
 
 Questões Técnicas
